@@ -20,7 +20,8 @@
     </a>    
     <a href="https://github.com/madhuakula/kubernetes-goat/blob/master/LICENSE">
         <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
-    </a>    
+    </a> <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fsersev76%2Fkubernetes-goat?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsersev76%2Fkubernetes-goat.svg?type=shield"/></a>
+   
     <a href="https://github.com/madhuakula/kubernetes-goat/releases/latest">
         <img alt="GitHub release" src="https://img.shields.io/github/release/madhuakula/kubernetes-goat.svg" />
     </a>    
@@ -42,6 +43,9 @@
 </p>
 
 [![Kubernetes Goat Home](./kubernetes-goat-home.png)](https://madhuakula.com/kubernetes-goat)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsersev76%2Fkubernetes-goat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsersev76%2Fkubernetes-goat?ref=badge_large)
 
 ## 🧰 Setting up Kubernetes Goat
 
